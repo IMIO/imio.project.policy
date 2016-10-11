@@ -40,10 +40,7 @@ setup(
     install_requires=[
         'Plone',
         'Products.ZNagios',
-        'collective.ckeditor',
-        'collective.externaleditor',
         'collective.iconifieddocumentactions',
-        'collective.messagesviewlet',
         'collective.monitor',
         'collective.usernamelogger',
         'five.z2monitor',
