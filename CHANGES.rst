@@ -2,11 +2,11 @@ Changelog
 =========
 
 
-1.1 (unreleased)
+1.1 (2021-08-25)
 ----------------
 
-- Nothing changed yet.
-
+- Pypi release.
+  [fngaha]
 
 1.0 (2016-12-06)
 ----------------
