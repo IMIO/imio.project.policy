@@ -41,9 +41,7 @@ setup(
         'Plone',
         'Products.ZNagios',
         'collective.iconifieddocumentactions',
-        'collective.monitor',
         'collective.usernamelogger',
-        'five.z2monitor',
         'imio.project.pst',
         'setuptools',
         'zc.z3monitor'
