@@ -5,7 +5,8 @@ Changelog
 1.2 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Deleted deprecated packages collective.monitor, five.z2monitor
+  [fngaha]
 
 
 1.1 (2021-08-25)
